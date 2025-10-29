@@ -11,3 +11,5 @@
  - 你可以在 [这里](https://github.com/lacia-hIE/lacia-hIE/issues) 向我留言, 我不定期查看并回复.
 
 > "朦胧之月，停滞之声；时间之矢，熵溢之心."
+
+![moedog](https://api.moedog.org/count/@lacia-hIE.readme)
